@@ -1,4 +1,4 @@
-project_id    = "my-project-123-453312"
+project_id    = "symbolic-pipe-457709-n9"
 region        = "us-central1"
 zone          = "us-central1-c"
 vm_name       = "my-vm1"
